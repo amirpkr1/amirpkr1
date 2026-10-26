@@ -9,7 +9,6 @@
 ### 👨‍💻 About Me
 I am an IT Security enthusiast with a clear goal: becoming a professional Penetration Tester (Red Teamer). I believe in learning by building. Instead of just collecting tutorials, I create real projects, document them, and continuously improve my skills. 
 
-My goal is to start an *Ausbildung* (IT-Security) in Germany and build a long-term career in offensive security.
 
 - 🔭 Currently working on: Building a custom toolkit of offensive security scripts and documenting my independent penetration testing scenarios.
 - 🌱 Currently learning: Python, Advanced Linux, Networking, and Web Penetration Testing.
@@ -35,7 +34,6 @@ I am currently in a "Soft Launch" phase, building my portfolio before making it 
 *   Python Basics: A collection of beginner-friendly scripts documenting my learning journey.
 *   Independent Pen Testing Scenarios: Hands-on labs, commands, and real-world scenarios (Network & Web) that I build and document from scratch in my own virtual environment.
 
-*(Stay tuned — more will be public soon!)*
 
 ---
 
